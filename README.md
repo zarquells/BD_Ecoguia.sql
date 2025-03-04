@@ -7,7 +7,7 @@ Este repositório contém scripts SQL para criação e manipulação de bancos d
 2. **Conecte-se ao seu servidor MySQL** 🔗  
 3. **Crie um novo banco de dados** 📜
 4. **Baixe os arquivos** ⬇️
-5. **Rode os scripts no banco criado: ** 💿
+5. **Rode os scripts no banco criado ** 💿
 ****
 No menu superior, clique em File → Open SQL Script... 📂
 Selecione o arquivo desejado e clique em Open ✅
